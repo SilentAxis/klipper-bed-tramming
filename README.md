@@ -1,5 +1,3 @@
-# klipper-bed-tramming
-"Center-reference bed tramming for Klipper - manual bed leveling made easy(ish)"
 # Klipper Bed Tramming Center
 
 A center-reference bed tramming system for Klipper that allows manual bed leveling by probing a center reference point and comparing all screw positions against it. Originally designed for the Elegoo Neptune 4 Max but adaptable to other printers.
@@ -148,25 +146,4 @@ GNU General Public License v3.0 - see LICENSE file
 
 ## Credits
 
-Created by Mike Repko for the Elegoo Neptune 4 Max
-```
-
-**LICENSE (GNU GPLv3):**
-```
-GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
-
-
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+Created by SilentAxis for the Elegoo Neptune 4 Max
