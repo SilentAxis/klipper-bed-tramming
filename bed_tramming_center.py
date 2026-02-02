@@ -1,6 +1,6 @@
 # ~/klipper/klippy/extras/bed_tramming_center.py
 # Center-reference bed tramming for Elegoo Neptune 4 Max
-# Copyright (C) 2025 Mike Repko
+# Copyright (C) 2025 SilentAxis
 # This file may be distributed under the terms of the GNU GPLv3 license.
 
 class BedTrammingCenter:
