@@ -156,7 +156,7 @@ Created by Mike Repko for the Elegoo Neptune 4 Max
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
-Copyright (C) 2026 Mike Repko
+
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
