@@ -1,6 +1,6 @@
 # ~/klipper/klippy/extras/bed_tramming_center.py
 # Center-reference bed tramming for Elegoo Neptune 4 Max
-# Copyright (C) 2025 SilentAxis
+# Copyright (C) 2025 Mike Repko
 # This file may be distributed under the terms of the GNU GPLv3 license.
 
 class BedTrammingCenter:
@@ -15,13 +15,13 @@ class BedTrammingCenter:
         
         # Screw positions - nozzle coordinates
         self.screw_positions = {
-            'center': {'x': 230.0, 'y': 210.0, 'name': 'Center'},
+            'center': {'x': 230.0, 'y': 190.0, 'name': 'Center'},
             'front_left': {'x': 45.0, 'y': 10.0, 'name': 'Front Left'},
             'front_right': {'x': 419.0, 'y': 10.0, 'name': 'Front Right'},
-            'back_left': {'x': 45.0, 'y': 400.0, 'name': 'Back Left'},
-            'back_right': {'x': 419.0, 'y': 400.0, 'name': 'Back Right'},
-            'left_middle': {'x': 45.0, 'y': 210.0, 'name': 'Left Middle'},
-            'right_middle': {'x': 419.0, 'y': 210.0, 'name': 'Right Middle'},
+            'back_left': {'x': 45.0, 'y': 380.0, 'name': 'Back Left'},
+            'back_right': {'x': 419.0, 'y': 380.0, 'name': 'Back Right'},
+            'left_middle': {'x': 45.0, 'y': 190.0, 'name': 'Left Middle'},
+            'right_middle': {'x': 419.0, 'y': 190.0, 'name': 'Right Middle'},
         }
         
         # Register commands
